@@ -1,0 +1,16 @@
+.page-header {
+  background: #606469;
+  padding: 10px;
+}
+.logo {
+  display: flex;
+  align-items: center;
+  color: #2e0b7e;
+}
+.logo h3 {
+  font-weight: 900;
+}
+.logo img {
+  width: 3vw;
+  margin-right: 10px;
+}

@@ -1,0 +1,19 @@
+.card-sidebar {
+  width: 20vw;
+  display: flex;
+  flex-direction: column;
+}
+.sidebar-card {
+  background: #ffe4c4;
+  margin: 10px;
+  padding: 20px;
+  border-radius: 5px;
+  border: 2px solid #ece8e5; /* taken from the example image */
+}
+.sidebar-card h2 {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+.sidebar-card p {
+  margin-top: 20px;
+}
